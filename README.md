@@ -28,12 +28,16 @@ Each project is organized in a dedicated folder containing the Excel workbook an
 Advanced-Excel-Projects/
 │
 ├── Project-01/
+│   ├── data.xlsx
 │   ├── Project.xlsx
-│   └── Dashboard.png
+│   ├── Dashboard.png
+│   └── README.md
 │
 ├── Project-02/
-│   ├── Project.xlsx
-│   └── Dashboard.png
+│   ├── data.xlsx 
+│   ├── Project.xlsx 
+│   ├── Dashboard.png
+│   └── README.md
 │
 └── README.md
 ```
@@ -58,7 +62,7 @@ The objective of this repository is to demonstrate practical Excel proficiency t
 * Data Visualization
 * Dashboarding
 
-## Author
+## PROJECT CREATOR
 
 **Aman Raj**
 
